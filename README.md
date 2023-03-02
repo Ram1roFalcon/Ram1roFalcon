@@ -29,7 +29,7 @@ Escuela secundaria 2014 - 2018
 + **PYTHON** - Basico
 + **SQL** - Basico
 
-## Comandos Interesantes
+## 🔥 Comandos Interesantes
 
 | Comando | Descripción |
 |---------|-------------|
@@ -39,7 +39,7 @@ Escuela secundaria 2014 - 2018
 | `rm` | Elimina archivos y directorios. |
 | `grep` | Busca patrones de texto en un archivo. |
 
-## Alias interesantes
+## ⚡ Alias interesantes
 
 + `alias cl="clear"`
 + `alias rm="trash"`
